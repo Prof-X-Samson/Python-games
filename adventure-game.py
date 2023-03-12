@@ -1,5 +1,7 @@
+#Author- Samson Olowoyo
 import time
 import random
+#might need to do a pip install colorama, if you get an error: ModuleNotFoundError: No module named 'colorama'
 from colorama import Fore, Back, Style
 
 
